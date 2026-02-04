@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Portofolio Pelajar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #000000;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: white;
+            border-radius: 8px;
+        }
+
+        h2 {
+            color: #4465a1;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>shera lovana zulfah</h1>
+    <p>Pelajar | Siswa SMA</p>
+</header>
+
+<section>
+    <h2>About Me!</h2>
+    <p>
+        I am a student who is interested in technology, especially web development.
+        I enjoy learning new things and improving my skills.
+        At the moment, I am focusing on learning HTML and CSS to build simple websites.
+    </p>
+</section>
+
+<section>
+    <h2>Pendidikan</h2>
+    <ul>
+        <li>SMA Budi Luhur</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Keahlian</h2>
+    <ul>
+        <li>mendengarkan music</li>
+        <li>menonton film</li>
+        <li>mendengarkan podcats</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Hobi</h2>
+    <ul>
+        <li>Menonton film</li>
+        <li>Mendengarkan musik</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Pengalaman / Proyek</h2>
+    <ul>
+21        <li>Membuat website portofolio sederhana</li>
+        <li>Desain poster</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Kontak</h2>
+    <p>Email: sheralovanazulfah@gmail.com</p>
+    <p>Instagram: @sheralzz</p>
+</section>
+
+<footer>
+    <p>© 2026 Portofolio Pelajar</p>
+</footer>
+
+</body>
+</.0
+7html>
